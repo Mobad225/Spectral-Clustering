@@ -1,0 +1,2 @@
+# Spectral-Clustering
+Spectral Clustering using k-way normalized cuts, The k-way normalized cut tries to cut the similarity graph into k partitions, It cares about making the new clusters of close weight, and, of course the cuts must be of minimum cost, so to cluster the data into k clusters, almost same size, and each cluster is closely related. In this project It is shown against good dataset to visualize the difference between this type of spectral clustering and a normal k-means clustering.
